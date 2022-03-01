@@ -1,3 +1,6 @@
+
+
+<img align="center" src="https://user-images.githubusercontent.com/92398016/156160033-8bc14042-f7ed-4add-986f-422ee28d9809.svg" width="100%" height="150">
 <h1 align="center">Hi 👋, I'm Vipul Kumar</h1>
 <h3 align="center">A Frontend Developer from India</h3>
 
