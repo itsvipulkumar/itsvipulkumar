@@ -11,9 +11,10 @@
 <p align="left"> <a href="https://twitter.com/itsvipulkumar" target="blank"><img src="https://img.shields.io/twitter/follow/itsvipulkumar?logo=twitter&style=for-the-badge" alt="itsvipulkumar" /></a> </p> -->
 
 - 🔭 I’m currently working on **Personal Portfolio**
+
 - 🌱 I’m currently learning **Java**
 
-- 👯 I’m looking to collaborate on **Competative Programming**
+<!-- - 👯 I’m looking to collaborate on **** -->
 
 - 💬 Ask me about **React, CSS and UI**
 
@@ -22,6 +23,7 @@
 - 👨‍💻 All of my projects are available at <a href="https://itsaboutvipul.web.app/" target="_blank">**Personal Portfolio** </a>
 
 - ⚡ Fun fact **Spends too much thinking about things that is not in real.**
+<!-- - ❤️ Intrsted -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
