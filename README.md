@@ -1,7 +1,7 @@
 
 
 <img align="center" src="https://user-images.githubusercontent.com/92398016/156160033-8bc14042-f7ed-4add-986f-422ee28d9809.svg" width="100%" height="150">
-<h1 align="center">Hi 👋, I'm Vipul Kumar</h1>
+<h1 align="center">Hi 👋, This is Vipul Kumar</h1>
 <h3 align="center">A Frontend Developer from India</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsvipulkumar&label=Profile%20views&color=0e75b6&style=flat" alt="itsvipulkumar" /> </p>
@@ -42,4 +42,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsvipulkumar&" alt="itsvipulkumar" /></p>
 
-<img src="https://img.icons8.com/glyph-neue/64/000000/github.png"/>
+<!-- <img src="https://img.icons8.com/glyph-neue/64/000000/github.png"/> -->
