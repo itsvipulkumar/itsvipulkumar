@@ -20,7 +20,7 @@
 
 - 📫 How to reach me <a href="https://www.instagram.com/vip_uul/" target="_blank">**Instagram** </a>
 
-- 👨‍💻 All of my projects are available at <a href="https://itsaboutvipul.web.app/" target="_blank">**Personal Portfolio** </a>
+<!-- - 👨‍💻 All of my projects are available at <a href="https://itsaboutvipul.web.app/" target="_blank">**Personal Portfolio** </a> -->
 
 - ⚡ Fun fact **Spends too much thinking about things that is not in real.**
 <!-- - ❤️ Intrsted -->
