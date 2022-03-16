@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/itsvipulkumar" target="blank"><img src="https://img.shields.io/twitter/follow/itsvipulkumar?logo=twitter&style=for-the-badge" alt="itsvipulkumar" /></a> </p> -->
 
-- 🔭 I’m currently working on **Back End**
+- 🔭 I’m currently working on **Node JS**
 
 - 🌱 I’m currently learning **Java**
 
